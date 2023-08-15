@@ -1,0 +1,1 @@
+This folder contains project files on SQL and how to manupulate data using SQL. 
