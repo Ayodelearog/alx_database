@@ -1,2 +1,2 @@
--- list all columns the table
-SHOW COLUMNS FROM first_table;
+-- list all rows the table
+SELECT * FROM first_table;
